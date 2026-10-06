@@ -1,0 +1,20 @@
+Enter number of vertices: 4
+Enter adjacency matrix:
+0 1 1 0
+1 0 0 1
+1 0 0 1
+0 1 1 0
+
+Graph Coloring Solution:
+
+Vertex 0 -> Color 1
+Vertex 1 -> Color 2
+Vertex 2 -> Color 2
+Vertex 3 -> Color 1
+
+Solution Vector:
+1 2 2 1
+
+Minimum Number of Colors Required: 2
+
+Solution found successfully.
